@@ -13,7 +13,7 @@
 <br/>
 <div align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,mysql,pandas,pytorch,tensorflow,scikit-learn,pandas" /><br>
+      <img src="https://skillicons.dev/icons?i=python,mysql,Pandas,pytorch,tensorflow,scikit-learn,pandas" /><br>
       <img src="https://skillicons.dev/icons?i=opencv,matplotlib,keras" />
     </a>
   </div>
