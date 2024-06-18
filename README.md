@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oguz Enver Uzan</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Oguz+Enver+Uzan" alt="Typing SVG" /></a></h1>
 <h3 align="center">A passionate Data Scientist from Poland</h3>
 
 <h3 align="left">Connect with me:</h3>
